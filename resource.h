@@ -2,6 +2,7 @@
 // Microsoft Developer Studio generated include file.
 // Used by metapad.rc
 //
+
 #define IDS_VERSION_SYNCH               1
 #define IDS_PLUGIN_LANGUAGE             2
 #define IDS_PLUGIN_RELEASE              3
@@ -114,7 +115,7 @@
 #define IDD_PROPPAGE_GENERAL            112
 #define IDD_ABORT_PRINT                 113
 #define IDD_GOTO                        114
-#define IDC_HAND                        122
+#define IDC_MYHAND                        122
 #define IDD_PROPPAGE_VIEW               124
 #define IDB_TOOLBAR                     126
 #define IDD_FAV_NAME                    128
@@ -307,6 +308,8 @@
 #define ID_SCROLLLEFT                   40106
 #define ID_SCROLLRIGHT                  40107
 #define ID_SAVE_AND_QUIT                40108
+#define ID_UTF_8_FILE                   40109
+#define ID_CONTROL_SHIFT_ENTER          40110
 #define ID_MRU_BASE                     44000
 #define ID_MRU_1                        44001
 #define ID_MRU_2                        44002

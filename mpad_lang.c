@@ -11,7 +11,7 @@
 
 #include <windows.h>
 
-#pragma comment(linker, "/OPT:NOWIN98" )
+//#pragma comment(linker, "/OPT:NOWIN98" )
 
 BOOL APIENTRY DllMain( HANDLE hModule, 
                        DWORD  ul_reason_for_call, 
