@@ -20,3 +20,7 @@ BOOL APIENTRY DllMain( HANDLE hModule,
 {
     return TRUE;
 }
+
+void __cdecl _except_handler4_common()
+{
+}
